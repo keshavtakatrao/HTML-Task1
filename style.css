@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto&display=swap');
+
+.header{
+    background-color: maroon;
+    color: white;
+    text-align: center;
+}
+
+.header a{
+    color: orange;
+}
+
+.required{
+    color: red;
+}
+
+table{
+    border: 1px solid black;
+    width: 100%;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.table{
+    background-color: #ffffcc;
+}
+
+.blue{
+    color: blue;
+}
